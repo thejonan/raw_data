@@ -1,0 +1,5 @@
+data/
+/.idea/
+/.vscode/
+/papers/
+*.DS_Store
